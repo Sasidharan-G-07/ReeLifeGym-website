@@ -32,7 +32,7 @@ const ReeLifeLogo = () => (
         transition={{ duration: 0.8 }}
         className="text-7xl sm:text-8xl md:text-[10rem] font-script text-gym-neon drop-shadow-[0_0_20px_rgba(255,0,0,0.8)] leading-none"
       >
-        Ree
+        Sasi
       </motion.span>
       <motion.span 
         initial={{ opacity: 0, x: 20 }}
@@ -40,7 +40,7 @@ const ReeLifeLogo = () => (
         transition={{ duration: 0.8, delay: 0.2 }}
         className="text-7xl sm:text-8xl md:text-[10rem] font-black text-white ml-4 tracking-tighter leading-none"
       >
-        LIFE
+        MS
       </motion.span>
       
       {/* Heartbeat Line */}
